@@ -8,4 +8,4 @@ def removeduplicates(nums):
             i = i + 1
     return len(nums)
 
-print(removeduplicates([2,1,4,3,2]))
+print(removeduplicates([1,1,3,4,5]))
